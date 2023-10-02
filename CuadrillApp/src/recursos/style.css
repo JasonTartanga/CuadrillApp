@@ -1,0 +1,19 @@
+.fondo {
+    -fx-background-color: rgb(48 ,51 ,53);
+    -fx-background-radius: 0px 0px 25px 25px;
+}
+
+.header{
+    -fx-background-color: rgb(38 ,41 ,43);
+    -fx-background-radius: 25px;
+}
+
+.buttonBar {
+    -fx-background-color: rgb(38 ,41 ,43);
+    -fx-background-radius: 25px;
+}
+
+.button {
+    -fx-background-radius: 50%;
+    -fx-background-color: rgb(227, 227, 227);
+}
