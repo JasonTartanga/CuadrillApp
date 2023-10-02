@@ -3,6 +3,7 @@ package controlador;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.ToggleButton;
+import javafx.scene.image.ImageView;
 
 /**
  *
@@ -15,4 +16,7 @@ public class ParaTi {
 
     @FXML
     private ToggleButton btnLikes;
+
+    @FXML
+    private ImageView imgActvidad;
 }
